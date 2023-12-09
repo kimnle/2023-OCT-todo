@@ -46,4 +46,4 @@ while users_choice != "5":
     else:
         print("Invalid input")
 
-print("Thank you for using to do")
+print("Thank you for using the to do list")
